@@ -18,23 +18,23 @@ Class Quiz was built to work with Android API 23(Marshmallow). However, minimum 
 ## Screen Shots
 
 <a href="https://github.com/saikaranbalmuri/ClassQuiz-android/blob/master/app/src/main/res/drawable/Login_Screen.png" target="_blank">
-<img src="https://github.com/saikaranbalmuri/ClassQuiz-android/blob/master/app/src/main/res/drawable/Login_Screen.png" height="100">
+<img src="https://github.com/saikaranbalmuri/ClassQuiz-android/blob/master/app/src/main/res/drawable/Login_Screen.png" height="250">
+</a>
+<a href="https://github.com/saikaranbalmuri/ClassQuiz-android/blob/master/app/src/main/res/drawable/Questions_Screen.png"_blank">
+<img src="https://github.com/saikaranbalmuri/ClassQuiz-android/blob/master/app/src/main/res/drawable/Questions_Screen.png" height="250">
+</a>
+<a href="https://github.com/saikaranbalmuri/ClassQuiz-android/blob/master/app/src/main/res/drawable/Questions_Screen2.png"_blank">
+<img src="https://github.com/saikaranbalmuri/ClassQuiz-android/blob/master/app/src/main/res/drawable/Questions_Screen2.png" height="250">
 </a>
 
-<a href=""_blank">
-<img src="" height="40">
+<a href="https://github.com/saikaranbalmuri/ClassQuiz-android/blob/master/app/src/main/res/drawable/QuizStatus_Screen.png"_blank">
+<img src="https://github.com/saikaranbalmuri/ClassQuiz-android/blob/master/app/src/main/res/drawable/QuizStatus_Screen.png" height="250">
 </a>
 
-<a href=""_blank">
-<img src="" height="40">
+<a href="https://github.com/saikaranbalmuri/ClassQuiz-android/blob/master/app/src/main/res/drawable/Report_BarChart.png"_blank">
+<img src="https://github.com/saikaranbalmuri/ClassQuiz-android/blob/master/app/src/main/res/drawable/Report_BarChart.png" height="250">
 </a>
-
-<a href=""_blank">
-<img src="" height="40">
+<a href="https://github.com/saikaranbalmuri/ClassQuiz-android/blob/master/app/src/main/res/drawable/Report_PieChart.png"_blank">
+<img src="https://github.com/saikaranbalmuri/ClassQuiz-android/blob/master/app/src/main/res/drawable/Report_PieChart.png" height="250">
 </a>
-
-<a href=""_blank">
-<img src="" height="40">
-</a>
-
 
