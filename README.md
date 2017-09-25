@@ -20,21 +20,20 @@ Class Quiz was built to work with Android API 23(Marshmallow). However, minimum 
 <a href="https://github.com/saikaranbalmuri/ClassQuiz-android/blob/master/app/src/main/res/drawable/Login_Screen.png" target="_blank">
 <img src="https://github.com/saikaranbalmuri/ClassQuiz-android/blob/master/app/src/main/res/drawable/Login_Screen.png" height="250">
 </a>
-<a href="https://github.com/saikaranbalmuri/ClassQuiz-android/blob/master/app/src/main/res/drawable/Questions_Screen.png"_blank">
+<a href="https://github.com/saikaranbalmuri/ClassQuiz-android/blob/master/app/src/main/res/drawable/Questions_Screen.png" target="_blank">
 <img src="https://github.com/saikaranbalmuri/ClassQuiz-android/blob/master/app/src/main/res/drawable/Questions_Screen.png" height="250">
 </a>
-<a href="https://github.com/saikaranbalmuri/ClassQuiz-android/blob/master/app/src/main/res/drawable/Questions_Screen2.png"_blank">
+<a href="https://github.com/saikaranbalmuri/ClassQuiz-android/blob/master/app/src/main/res/drawable/Questions_Screen2.png" target="_blank">
 <img src="https://github.com/saikaranbalmuri/ClassQuiz-android/blob/master/app/src/main/res/drawable/Questions_Screen2.png" height="250">
 </a>
-
-<a href="https://github.com/saikaranbalmuri/ClassQuiz-android/blob/master/app/src/main/res/drawable/QuizStatus_Screen.png"_blank">
+<a href="https://github.com/saikaranbalmuri/ClassQuiz-android/blob/master/app/src/main/res/drawable/QuizStatus_Screen.png" target="_blank">
 <img src="https://github.com/saikaranbalmuri/ClassQuiz-android/blob/master/app/src/main/res/drawable/QuizStatus_Screen.png" height="250">
 </a>
-
-<a href="https://github.com/saikaranbalmuri/ClassQuiz-android/blob/master/app/src/main/res/drawable/Report_BarChart.png"_blank">
+<a href="https://github.com/saikaranbalmuri/ClassQuiz-android/blob/master/app/src/main/res/drawable/Report_BarChart.png" target="_blank">
 <img src="https://github.com/saikaranbalmuri/ClassQuiz-android/blob/master/app/src/main/res/drawable/Report_BarChart.png" height="250">
 </a>
-<a href="https://github.com/saikaranbalmuri/ClassQuiz-android/blob/master/app/src/main/res/drawable/Report_PieChart.png"_blank">
+
+<a href="https://github.com/saikaranbalmuri/ClassQuiz-android/blob/master/app/src/main/res/drawable/Report_PieChart.png" target="_blank">
 <img src="https://github.com/saikaranbalmuri/ClassQuiz-android/blob/master/app/src/main/res/drawable/Report_PieChart.png" height="250">
 </a>
 
